@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="false" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="application.Main" project="2110215_Lab6_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab6_2020_2_6332009521_Chinnapat/src/application/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="194" x="459" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="data.ProgressTableCell" project="2110215_Lab6_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab6_2020_2_6332009521_Chinnapat/src/data/ProgressTableCell.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="378" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="data.Task" project="2110215_Lab6_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab6_2020_2_6332009521_Chinnapat/src/data/Task.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="181" x="1102" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="data.TaskTable" project="2110215_Lab6_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab6_2020_2_6332009521_Chinnapat/src/data/TaskTable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="188" x="693" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="data.TaskUtil" project="2110215_Lab6_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab6_2020_2_6332009521_Chinnapat/src/data/TaskUtil.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="141" x="921" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

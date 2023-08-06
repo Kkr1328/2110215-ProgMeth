@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="false" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="solar.Earth" project="2110215_Lab2_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab2_2020_2_6332009521_Chinnapat/src/solar/Earth.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="120" x="112" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="solar.Planet" project="2110215_Lab2_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab2_2020_2_6332009521_Chinnapat/src/solar/Planet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="211" x="192" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="solar.Saturn" project="2110215_Lab2_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab2_2020_2_6332009521_Chinnapat/src/solar/Saturn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="96" x="272" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="solar.Application" project="2110215_Lab2_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab2_2020_2_6332009521_Chinnapat/src/solar/Application.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="152" x="443" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="solar.Coordinate" project="2110215_Lab2_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab2_2020_2_6332009521_Chinnapat/src/solar/Coordinate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="111" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="solarsystem.SolarSystem" project="2110215_Lab2_2020_2_6332009521_Chinnapat" 
+    file="/2110215_Lab2_2020_2_6332009521_Chinnapat/src/solarsystem/SolarSystem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="180" x="635" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="7">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
